@@ -29,7 +29,7 @@ a summary report.
   name attached to the username is new, then it assigns a digit at the end of
   the username.
 
-## Three real bugs, found by deliberately testing bad input
+## Five real bugs, found by deliberately testing bad input
 
 I tested the script against a CSV including a duplicate username, a row
 with a missing username, and a username containing an apostrophe, rather
